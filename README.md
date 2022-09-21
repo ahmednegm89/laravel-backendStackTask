@@ -1,27 +1,27 @@
 
 
-postman collection for the api link :   -- https://www.getpostman.com/collections/e2763c4e48f304d385a5
+postman collection for the api link :
+- https://www.getpostman.com/collections/e2763c4e48f304d385a5
 
 prerequisites :
--- composer
--- laravel app 
--- mysql DB
--- local server
-
+- composer
+- laravel app 
+- mysql DB
+- local server
 
 setup :
--- setup new laravel app
--- setup needed models,migrations and Controllers
--- add needed assets in public folder
--- make main layout for all app views to extend
--- create needed views
--- mantain app routes
--- make api routes
--- make needed middlewares for all above
+- setup new laravel app
+- setup needed models,migrations and Controllers
+- add needed assets in public folder
+- make main layout for all app views to extend
+- create needed views
+- mantain app routes
+- make api routes
+- make needed middlewares for all above
 
 additional notes:
 
--- testing Api using postman 
+- testing Api using postman 
 
  
 
