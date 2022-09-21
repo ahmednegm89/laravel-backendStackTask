@@ -1,3 +1,31 @@
+
+
+postman collection for the api link :   -- https://www.getpostman.com/collections/e2763c4e48f304d385a5
+
+prerequisites :
+-- composer
+-- laravel app 
+-- mysql DB
+-- local server
+
+
+setup :
+-- setup new laravel app
+-- setup needed models,migrations and Controllers
+-- add needed assets in public folder
+-- make main layout for all app views to extend
+-- create needed views
+-- mantain app routes
+-- make api routes
+-- make needed middlewares for all above
+
+additional notes:
+
+-- testing Api using postman 
+
+ 
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
